@@ -1,0 +1,90 @@
+img { 
+    width: 800px;
+    height: auto;
+    display:block;
+    margin: 10px auto
+    
+}
+
+.step img{    
+    width: 500px;
+    height: auto;
+    display:block;
+    margin: 10px auto
+
+}
+
+body {
+    background-color: antiquewhite;
+    margin: 10px 150px;
+    
+}
+
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif;
+}
+
+.content-page{
+    width: 600px;
+    height: auto;
+    background-color:rgba(253, 253, 253, 0.801);
+    padding:6px;
+    margin:0 auto;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.content-page ul li{
+    text-align: left;
+    padding:5px;
+    font-size:25px
+
+
+}
+.summary{ text-align: center;
+    background-color:rgba(254, 255, 246, 0.637);
+    padding:10px;
+    border: 5px double darkolivegreen;
+    
+}
+
+.step ol li{
+    
+    background-color: rgba(150, 204, 255, 0.397);
+    padding:5px;
+    border-radius: 20px;
+}
+
+h1{  
+    background-color: rgba(255, 166, 150, 0.5);
+    padding:5px;
+    border-radius: 30px;
+    margin:10px 100px;
+    text-align: center;
+
+}
+
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    color:darkblue;
+    background-color: rgba(161, 243, 236, 0.267);
+    padding:5px;
+    border-radius: 30px;
+    margin:10px 180px
+    
+}
+
+.step, .ingredient {
+    
+    border: 3px dotted grey;
+    border-radius: 20px;
+    padding:6px;
+    background-color: rgba(245, 255, 112, 0.2);
+    margin:20px
+
+}
+
+
